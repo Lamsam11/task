@@ -1,0 +1,63 @@
+
+ div.sample{
+	background-color: blueviolet;
+	width: 200px;
+	height: 200px;
+	margin: left;
+    float: left;
+    margin-right: 20px;
+	
+
+ }
+ div.x{
+	background-color: aqua;
+	width: 200px;
+	height: 200px;
+	margin: left;
+    float: left;
+    margin-right: 20px;
+
+	
+ }
+ div.z{
+	background-color: aqua;
+	width: 200px;
+	height: 200px;
+	margin: left;
+    float: left;
+    margin-right: 20px;
+
+	
+ }
+div.p{
+	margin-right: 7px;
+ }
+ im{
+	margin-right: 70px;
+ }
+
+ ul{
+	background-color: aqua;
+	width: 300px;
+	list-style-type: none;
+	display: inline-block;
+	
+ }
+ li{
+    color: aliceblue;
+    text-decoration: none;
+ }
+ 
+ li a:hover{
+color: blueviolet;
+
+ }
+ a{
+	
+	color: blue;
+	
+	
+ }
+
+
+ 
